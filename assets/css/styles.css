@@ -73,7 +73,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
   margin: 0px 15px;
-  width: 110%;
+  width: 120%;
 }
 
 .mappen .bier {
@@ -87,6 +87,7 @@ body {
   color: #1F2937;
   font-weight: bold;
   margin: auto;
+  padding: 10px 15px;
 }
 
 .container {
