@@ -56,7 +56,7 @@ body {
     height: 50px;
     justify-content: space-between;
     margin: 0px 15px;
-    width: 120%;
+    width: max-content;
     }
     .actief {
         background-color: #0094FF !important;
@@ -65,6 +65,7 @@ body {
         border-radius: 40px !important;
     }
     p {
+        display: inline-block;
         color: #1F2937;
         font-weight: bold;
         margin: auto;
