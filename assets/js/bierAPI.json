@@ -1,0 +1,31 @@
+{
+    "page": 1,
+    "per_page": 4,
+    "total": 4,
+    "total_pages": 1,
+    "data": [{
+        "naam": "Super 8",
+        "graden": "4.8",
+        "prijs": "2,20",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Papegaei",
+        "graden": "8",
+        "prijs": "3,50",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Hommelbier",
+        "graden": "7,5",
+        "prijs": "2,50",
+        "img": "assets/images/hommel.png"
+    }, {
+        "naam": "Trippel Plukker",
+        "graden": "7,5",
+        "prijs": "4,00",
+        "img": "assets/images/plukkerTripel.png"
+    }],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
