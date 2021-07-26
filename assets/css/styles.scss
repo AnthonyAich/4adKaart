@@ -111,7 +111,15 @@
 }
 
 @media only screen and (min-width: 600px) {
-  .mappen {
+    .mappen {
     overflow: initial;
+  }
+  body {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+  }
+  html {
+    background-color: #000;
   }
 }
