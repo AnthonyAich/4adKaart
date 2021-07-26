@@ -13,7 +13,7 @@
         "soort": ""
     }, {
         "naam": "Sepp Moser (wit)",
-        "info": "geen data",
+        "info": "",
         "prijs": "4.00 (fles: €20,00)",
         "frigo": "Frigo 5",
         "soort": ""
@@ -25,7 +25,7 @@
         "soort": ""
     }, {
         "naam": "Gurgo (rood)",
-        "info": "geen data",
+        "info": "",
         "prijs": "3.50 (fles: €17.50)",
         "frigo": "Het rek",
         "soort": ""
@@ -80,7 +80,7 @@
         "soort": ""
     }, {
         "naam": "Sepp Moser (blanc)",
-        "info": "geen data",
+        "info": "",
         "prijs": "4.00 (bouteille: €20,00)",
         "frigo": "Frigo 5",
         "soort": ""
@@ -92,7 +92,7 @@
         "soort": ""
     }, {
         "naam": "Gurgo (rouge)",
-        "info": "geen data",
+        "info": "",
         "prijs": "3.50 (bouteille: €17.50)",
         "frigo": "Het rek",
         "soort": ""
@@ -147,7 +147,7 @@
         "soort": ""
     }, {
         "naam": "Sepp Moser (white)",
-        "info": "geen data",
+        "info": "",
         "prijs": "4.00 (bottle: €20,00)",
         "frigo": "Frigo 5",
         "soort": ""
@@ -159,7 +159,7 @@
         "soort": ""
     }, {
         "naam": "Gurgo (red)",
-        "info": "geen data",
+        "info": "",
         "prijs": "3.50 (bottle: €17.50)",
         "frigo": "Het rek",
         "soort": ""
