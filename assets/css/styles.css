@@ -19,7 +19,8 @@
   display: grid;
   -ms-grid-columns: 1fr 1fr 1fr;
       grid-template-columns: 1fr 1fr 1fr;
-      grid-template-areas: "taal logo ." "mappen mappen mappen";
+      grid-template-areas: "taal logo ."
+ "mappen mappen mappen";
 }
 
 .taal {
@@ -139,8 +140,16 @@
 }
 
 @media only screen and (min-width: 600px) {
-  .mappen {
+    .mappen {
     overflow: initial;
+  }
+  body {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+  }
+  html {
+    background-color: #000;
   }
 }
 /*# sourceMappingURL=styles.css.map */
