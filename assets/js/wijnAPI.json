@@ -1,0 +1,203 @@
+{
+    "nl": [{
+        "naam": "Taoz (witte)",
+        "info": "12.5%",
+        "prijs": "3.50 (fles: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "La Posada (wit)",
+        "info": "12.5%",
+        "prijs": "3.50 (fles: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Sepp Moser (wit)",
+        "info": "geen data",
+        "prijs": "4.00 (fles: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Entre-Deux-Monts (wit)",
+        "info": "12%",
+        "prijs": "4.50 (fles: €22.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Gurgo (rood)",
+        "info": "geen data",
+        "prijs": "3.50 (fles: €17.50)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Sommos (rood)",
+        "info": "13,5%",
+        "prijs": "4.00 (fles: €20.00)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Lautaro bio (rood)",
+        "info": "14,5%",
+        "prijs": "3.50 (fles: €17.50)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Fontarèche 1682 (rood)",
+        "info": "14%",
+        "prijs": "4.00 (fles: €20,00)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Laurent Miquel (rosé)",
+        "info": "n.v.t.",
+        "prijs": "3.50 (fles: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "James Ensor Brut (cava)",
+        "info": "n.v.t.",
+        "prijs": "4.00 (fles: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Prosecco Corvezzo",
+        "info": "n.v.t.",
+        "prijs": "4.00 (fles: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }],
+    "fr": [{
+        "naam": "Taoz (blanc)",
+        "info": "12.5%",
+        "prijs": "3.50 (bouteille: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "La Posada (blanc)",
+        "info": "12.5%",
+        "prijs": "3.50 (bouteille: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Sepp Moser (blanc)",
+        "info": "geen data",
+        "prijs": "4.00 (bouteille: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Entre-Deux-Monts (blanc)",
+        "info": "12%",
+        "prijs": "4.50 (bouteille: €22.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Gurgo (rouge)",
+        "info": "geen data",
+        "prijs": "3.50 (bouteille: €17.50)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Sommos (rouge)",
+        "info": "13,5%",
+        "prijs": "4.00 (bouteille: €20.00)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Fontarèche 1682 (rouge)",
+        "info": "14%",
+        "prijs": "4.00 (bouteille: €20,00)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Lautaro bio (rouge)",
+        "info": "14,5%",
+        "prijs": "3.50 (bouteille: €17.50)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Laurent Miquel (rosé)",
+        "info": "n.v.t.",
+        "prijs": "3.50 (bouteille: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "James Ensor Brut (cava)",
+        "info": "n.v.t.",
+        "prijs": "4.00 (bouteille: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Prosecco Corvezzo",
+        "info": "n.v.t.",
+        "prijs": "4.00 (bouteille: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }],
+    "en": [{
+        "naam": "Taoz (white)",
+        "info": "12.5%",
+        "prijs": "3.50 (bottle: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "La Posada (white)",
+        "info": "12.5%",
+        "prijs": "3.50 (bottle: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Sepp Moser (white)",
+        "info": "geen data",
+        "prijs": "4.00 (bottle: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Entre-Deux-Monts (white)",
+        "info": "12%",
+        "prijs": "4.50 (bottle: €22.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Gurgo (red)",
+        "info": "geen data",
+        "prijs": "3.50 (bottle: €17.50)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Sommos (red)",
+        "info": "13,5%",
+        "prijs": "4.00 (bottle: €20.00)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Fontarèche 1682 (red)",
+        "info": "14%",
+        "prijs": "4.00 (bottle: €20,00)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Lautaro bio (red)",
+        "info": "14,5%",
+        "prijs": "3.50 (bottle: €17.50)",
+        "frigo": "Het rek",
+        "soort": ""
+    }, {
+        "naam": "Laurent Miquel (rosé)",
+        "info": "n.v.t.",
+        "prijs": "3.50 (bottle: €17.50)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "James Ensor Brut (cava)",
+        "info": "n.v.t.",
+        "prijs": "4.00 (bottle: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Prosecco Corvezzo",
+        "info": "n.v.t.",
+        "prijs": "4.00 (bottle: €20,00)",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }]
+}
