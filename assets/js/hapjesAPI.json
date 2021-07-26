@@ -1,0 +1,50 @@
+{
+    "nl": [{
+        "naam": "Chips",
+        "info": "(Bio)",
+        "prijs": "2,00",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Droge worst",
+        "info": "(De heerlijkheid)",
+        "prijs": "2,00",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Croque Monsieur",
+        "info": "(vlees of vegetarisch)",
+        "prijs": "3,00",
+        "img": "assets/images/hommel.png"
+    }],
+    "fr": [{
+        "naam": "Chips",
+        "info": "(Bio)",
+        "prijs": "2,00",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Saucisse sèche",
+        "info": "(Ferme: de Heerlijkheid)",
+        "prijs": "2,00",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Croque Monsieur",
+        "info": "(viande ou végétarien)",
+        "prijs": "3,00",
+        "img": "assets/images/hommel.png"
+    }],
+    "en": [{
+        "naam": "Potato chips",
+        "info": "(Bio)",
+        "prijs": "2,00",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Dry sausage",
+        "info": "(farm: de Heerlijkheid)",
+        "prijs": "2,00",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Croque Monsieur",
+        "info": "(meat or vegetarian)",
+        "prijs": "2,00",
+        "img": "assets/images/hommel.png"
+    }]
+}

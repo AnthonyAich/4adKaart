@@ -96,11 +96,8 @@
   margin-top: 10px;
   border: 1px solid #9ca3af;
   border-radius: 40px;
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: 1fr 1.5fr;
-      grid-template-columns: 1fr 1.5fr;
   height: 140px;
+  text-align: center;
 }
 
 .item .foto {
@@ -118,7 +115,7 @@
 }
 
 .item .info {
-  margin: 20px;
+  margin: 20px 10px;
   font-weight: bold;
 }
 
@@ -127,12 +124,23 @@
 }
 
 .item .titel {
-  font-size: 26px;
+  font-size: 24px;
+}
+
+.item .titel span {
+  font-size: 16px;
 }
 
 .item .prijs {
-  margin-top: 10%;
+  position: relative;
+  bottom: -25px;
   font-size: 20px;
   color: #0094ff !important;
+}
+
+@media only screen and (min-width: 600px) {
+  .mappen {
+    overflow: initial;
+  }
 }
 /*# sourceMappingURL=styles.css.map */

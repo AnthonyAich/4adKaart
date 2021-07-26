@@ -75,9 +75,8 @@
   margin-top: 10px;
   border: 1px solid #9ca3af;
   border-radius: 40px;
-  display: grid;
-  grid-template-columns: 1fr 1.5fr;
   height: 140px;
+  text-align: center;
   .foto {
     margin: 5px;
     background-color: #0094ff;
@@ -91,18 +90,28 @@
     }
   }
   .info {
-    margin: 20px;
+    margin: 20px 10px;
     font-weight: bold;
     p {
       color: #1f2937;
     }
   }
   .titel {
-    font-size: 26px;
+    font-size: 24px;
+    span {
+      font-size: 16px;
+    }
   }
   .prijs {
-    margin-top: 10%;
+    position: relative;
+    bottom: -25px;
     font-size: 20px;
     color: #0094ff !important;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .mappen {
+    overflow: initial;
   }
 }

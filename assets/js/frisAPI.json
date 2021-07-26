@@ -1,0 +1,383 @@
+{
+    "nl": [{
+        "naam": "Pepsi Max Cola",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 1",
+        "soort": ""
+    }, {
+        "naam": "Val bruis water",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 2",
+        "soort": ""
+    }, {
+        "naam": "Val water",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 2",
+        "soort": ""
+    }, {
+        "naam": "Mirinda limonade",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "7up",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Schweppes tonic",
+        "info": "n.v.t.",
+        "prijs": "2.20",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Schweppes Agrum",
+        "info": "n.v.t.",
+        "prijs": "2.20",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Val tea",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Cecemel (chocomelk)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Tönissteiner Zitrone Fit",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Cola",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Lemon",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Orange",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Pompelmoes",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Lemonaid Gemberlimonade",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Wostok Peer-Rozemarijn",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Sinaasappelsap (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Appelsap (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "World Shake (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Bio Siroop van ’t Vlierbos <span>(vlierbloesem, citroen, cassis)</span>",
+        "info": "n.v.t.",
+        "prijs": "1.50",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "kraantjeswater",
+        "info": "n.v.t.",
+        "prijs": "Gratis",
+        "frigo": "Tap heel links",
+        "soort": ""
+    }],
+    "fr": [{
+        "naam": "Pepsi Max Coca",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 1",
+        "soort": ""
+    }, {
+        "naam": "Val eau pétillante",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 2",
+        "soort": ""
+    }, {
+        "naam": "Val eau",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 2",
+        "soort": ""
+    }, {
+        "naam": "Mirinda limonade",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "7up",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Schweppes tonic",
+        "info": "n.v.t.",
+        "prijs": "2.20",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Schweppes Agrum",
+        "info": "n.v.t.",
+        "prijs": "2.20",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Val tea",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Cecemel (Lait au chocolat)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Tönissteiner Zitrone Fit",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Coca",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Ritchie citron",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Orange",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Pamplemousse",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Lemonaid limonade au gingembre",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Wostok Poire-Romarin",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Jus d'orange (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Jus de pomme (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "World Shake (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Bio Sirop de ’t Vlierbos <span>(fleur de sureau, citron, cassis)</span>",
+        "info": "n.v.t.",
+        "prijs": "1.50",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Eau du robinet",
+        "info": "n.v.t.",
+        "prijs": "Gratuit",
+        "frigo": "Tap heel links",
+        "soort": ""
+    }],
+    "en": [{
+        "naam": "Pepsi Max Cola",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 1",
+        "soort": ""
+    }, {
+        "naam": "Val sparkling water",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 2",
+        "soort": ""
+    }, {
+        "naam": "Val water",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 2",
+        "soort": ""
+    }, {
+        "naam": "Mirinda lemonade",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "7up",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Schweppes tonic",
+        "info": "n.v.t.",
+        "prijs": "2.20",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Schweppes Agrum",
+        "info": "n.v.t.",
+        "prijs": "2.20",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Val tea",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Cecemel (chocolate milk)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Tönissteiner Zitrone Fit",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Cola",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Lemon",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Orange",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Ritchie Grapefruites",
+        "info": "n.v.t.",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "soort": ""
+    }, {
+        "naam": "Lemonaid ginger lemonade",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Wostok Pear-Rosemary",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "soort": ""
+    }, {
+        "naam": "Orange juice (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Apple juice (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "World Shake (Oxfam)",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Bio Siroop from ’t Vlierbos <span>(elderflower, lemon, cassis)</span>",
+        "info": "n.v.t.",
+        "prijs": "1.50",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Tap water",
+        "info": "n.v.t.",
+        "prijs": "Free",
+        "frigo": "Tap heel links",
+        "soort": ""
+    }]
+}

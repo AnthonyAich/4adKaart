@@ -1,0 +1,221 @@
+{
+    "nl": [{
+        "naam": "Porto",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Ricard",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Campari Orange",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 5 + 6",
+        "soort": ""
+    }, {
+        "naam": "Picon Vin Blanc ",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Picon bière",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Aperol Spritz",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 6",
+        "soort": ""
+    }, {
+        "naam": "Roomer",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Frigo ?",
+        "soort": ""
+    }, {
+        "naam": "Famous Grouse Whisky",
+        "info": "n.v.t.",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Stolichnaya Wodka",
+        "info": "info wil je nie weten",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Tanqueray Gin",
+        "info": "43,1%",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Ron Caney (wit of bruin)",
+        "info": "n.v.t.",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Ron Caney Anejo Centuria <br>(7 j.) ",
+        "info": "n.v.t.",
+        "prijs": "7.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }],
+    "fr": [{
+        "naam": "Porto",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Ricard",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Campari Orange",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 5 + 6",
+        "soort": ""
+    }, {
+        "naam": "Picon Vin Blanc ",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Picon bière",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Aperol Spritz",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 6",
+        "soort": ""
+    }, {
+        "naam": "Roomer",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Frigo ?",
+        "soort": ""
+    }, {
+        "naam": "Famous Grouse Whisky",
+        "info": "n.v.t.",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Stolichnaya Wodka",
+        "info": "",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Tanqueray Gin",
+        "info": "43,1%",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Ron Caney (blanc ou brun)",
+        "info": "n.v.t.",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Ron Caney Anejo Centuria <br>(7 j.) ",
+        "info": "n.v.t.",
+        "prijs": "7.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }],
+    "en": [{
+        "naam": "Porto",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Ricard",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Campari Orange",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 5 + 6",
+        "soort": ""
+    }, {
+        "naam": "Picon Vin Blanc ",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 5",
+        "soort": ""
+    }, {
+        "naam": "Picon bière",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Rek vanachter",
+        "soort": ""
+    }, {
+        "naam": "Aperol Spritz",
+        "info": "n.v.t.",
+        "prijs": "5.00",
+        "frigo": "Frigo 6",
+        "soort": ""
+    }, {
+        "naam": "Roomer",
+        "info": "n.v.t.",
+        "prijs": "4.00",
+        "frigo": "Frigo ?",
+        "soort": ""
+    }, {
+        "naam": "Famous Grouse Whisky",
+        "info": "n.v.t.",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Stolichnaya Wodka",
+        "info": "",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Tanqueray Gin",
+        "info": "43,1%",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Ron Caney (white or brown)",
+        "info": "n.v.t.",
+        "prijs": "6.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }, {
+        "naam": "Ron Caney Anejo Centuria <br>(7 j.) ",
+        "info": "n.v.t.",
+        "prijs": "7.00",
+        "frigo": "Omgekeerde flessen",
+        "soort": ""
+    }]
+}

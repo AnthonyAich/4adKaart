@@ -1,0 +1,80 @@
+{
+    "nl": [{
+        "naam": "Koffie",
+        "info": "(Oxfam)",
+        "prijs": "2,00",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Koffie deca",
+        "info": "(Oxfam)",
+        "prijs": "2,00",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Thee",
+        "info": "(duurzaam assortiment)",
+        "prijs": "2,00",
+        "img": "assets/images/hommel.png"
+    }, {
+        "naam": "Hotcémel",
+        "info": "(Chocomel)",
+        "prijs": "2,00",
+        "img": "assets/images/plukkerTripel.png"
+    }, {
+        "naam": "Soep",
+        "info": "(chocolate milk)",
+        "prijs": "2,00",
+        "img": "assets/images/plukkerTripel.png"
+    }],
+    "fr": [{
+        "naam": "Café",
+        "info": "(Oxfam)",
+        "prijs": "2,00",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Café déca",
+        "info": "(Oxfam)",
+        "prijs": "2,00",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Thé",
+        "info": "(Gamme durable)",
+        "prijs": "2,00",
+        "img": "assets/images/hommel.png"
+    }, {
+        "naam": "Hotcémel",
+        "info": "(Lait au chocolat)",
+        "prijs": "2,00",
+        "img": "assets/images/plukkerTripel.png"
+    }, {
+        "naam": "Soupe",
+        "info": "",
+        "prijs": "2,00",
+        "img": "assets/images/plukkerTripel.png"
+    }],
+    "en": [{
+        "naam": "Coffee",
+        "info": "(Oxfam)",
+        "prijs": "2,00",
+        "img": "assets/images/export.png"
+    }, {
+        "naam": "Coffee deca",
+        "info": "(Oxfam)",
+        "prijs": "2,00",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Tea",
+        "info": "(Sustainable range)",
+        "prijs": "2,00",
+        "img": "assets/images/hommel.png"
+    }, {
+        "naam": "Hotcémel",
+        "info": "(chocolate milk)",
+        "prijs": "2,00",
+        "img": "assets/images/plukkerTripel.png"
+    }, {
+        "naam": "Soup",
+        "info": "",
+        "prijs": "2,00",
+        "img": "assets/images/plukkerTripel.png"
+    }]
+}

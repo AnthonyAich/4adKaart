@@ -1,31 +1,505 @@
 {
-    "page": 1,
-    "per_page": 4,
-    "total": 4,
-    "total_pages": 1,
-    "data": [{
-        "naam": "Super 8",
-        "graden": "4.8",
-        "prijs": "2,20",
+    "nl": [{
+        "naam": "Super 8 (Export)",
+        "info": "4.8",
+        "prijs": "2.20",
+        "frigo": "Frigo 1",
         "img": "assets/images/export.png"
     }, {
-        "naam": "Papegaei",
-        "graden": "8",
-        "prijs": "3,50",
-        "img": "assets/images/papegaei.png"
+        "naam": "Primus van’ t vat <span>(pintje)</span>",
+        "info": "5.2",
+        "prijs": "2.20",
+        "frigo": "Tap heel rechts",
+        "img": ""
+    }, {
+        "naam": "Kriek Mystic",
+        "info": "5.1",
+        "prijs": "2.50",
+        "frigo": "Frigo 2",
+        "img": ""
+    }, {
+        "naam": "Rodenbach",
+        "info": "5.2",
+        "prijs": "2.50",
+        "frigo": "frigo 2",
+        "img": ""
+    }, {
+        "naam": "Star light pils",
+        "info": "0.4",
+        "prijs": "2.00",
+        "frigo": "frigo 2",
+        "img": ""
+    }, {
+        "naam": "Vedett",
+        "info": "5.2",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "img": ""
     }, {
         "naam": "Hommelbier",
-        "graden": "7,5",
-        "prijs": "2,50",
+        "info": "7.5",
+        "prijs": "2.50",
+        "frigo": "Frigo 3",
         "img": "assets/images/hommel.png"
     }, {
-        "naam": "Trippel Plukker",
-        "graden": "7,5",
-        "prijs": "4,00",
-        "img": "assets/images/plukkerTripel.png"
+        "naam": "Boon Oude Geuze",
+        "info": "5.2",
+        "prijs": "2.50",
+        "frigo": "Frigo 3",
+        "img": ""
+    }, {
+        "naam": "Tongerlo (blond / bruin)",
+        "info": "6.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "Plukker Tripel (bio)",
+        "info": "7.5",
+        "prijs": "4.00",
+        "frigo": "Frigo 7",
+        "img": "/assets/images/plukkerTripel.png"
+    }, {
+        "naam": "Keikoppenbier",
+        "info": "6.1",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "img": ""
+    }, {
+        "naam": "St.-Bernardus Tripel",
+        "info": "8.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "St.-Bernardus wit",
+        "info": "5.5",
+        "prijs": "2.50",
+        "frigo": "Frigo 1",
+        "img": ""
+    }, {
+        "naam": "St.-Bernardus 6",
+        "info": "6.7",
+        "prijs": "3.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Westmalle Tripel",
+        "info": "9.5",
+        "prijs": "3.50",
+        "frigo": "Frigo 8",
+        "img": ""
+    }, {
+        "naam": "Duvel",
+        "info": "8.5",
+        "prijs": "3.50",
+        "frigo": "Frigo 8",
+        "img": ""
+    }, {
+        "naam": "Papegaei",
+        "info": "8.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "img": "assets/images/papegaei.png"
+    }, {
+        "naam": "Orval",
+        "info": "6.2",
+        "prijs": "4.00",
+        "frigo": "Frigo 8",
+        "img": ""
+    }, {
+        "naam": "Chimay Blue (blauw)",
+        "info": "9.0",
+        "prijs": "4.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Rochefort",
+        "info": "11.3",
+        "prijs": "4.50",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "Reninge Oud Bruin",
+        "info": "6.0",
+        "prijs": "8.00",
+        "frigo": "Frigo groot",
+        "img": ""
+    }, {
+        "naam": "Viven master Ipa",
+        "info": "7.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "img": ""
+    }, {
+        "naam": "Gageleer Bio",
+        "info": "7.5",
+        "prijs": "5.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Ichtegem’s Grand Cru Strubbe",
+        "info": "6.5",
+        "prijs": "4.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Uytkanter",
+        "info": "7.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Cider",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 2",
+        "img": ""
     }],
-    "support": {
-        "url": "https://reqres.in/#support-heading",
-        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
-    }
+    "fr": [{
+        "naam": "Super 8 (Export)",
+        "info": "4.8",
+        "prijs": "2.20",
+        "frigo": "Frigo 1",
+        "img": ""
+    }, {
+        "naam": "Primus van’ t vat <span>(pinte)</span>",
+        "info": "5.2",
+        "prijs": "2.20",
+        "frigo": "Tap heel rechts",
+        "img": ""
+    }, {
+        "naam": "Kriek Mystic",
+        "info": "5.1",
+        "prijs": "2.50",
+        "frigo": "Frigo 2",
+        "img": ""
+    }, {
+        "naam": "Rodenbach",
+        "info": "5.2",
+        "prijs": "2.50",
+        "frigo": "frigo 2",
+        "img": ""
+    }, {
+        "naam": "Star light pils",
+        "info": "0.4",
+        "prijs": "2.00",
+        "frigo": "frigo 2",
+        "img": ""
+    }, {
+        "naam": "Vedett",
+        "info": "5.2",
+        "prijs": "3.00",
+        "frigo": "Frigo 3",
+        "img": ""
+    }, {
+        "naam": "Hommelbier",
+        "info": "7.5",
+        "prijs": "2.50",
+        "frigo": "Frigo 3",
+        "img": ""
+    }, {
+        "naam": "Boon Oude Geuze",
+        "info": "5.2",
+        "prijs": "2.50",
+        "frigo": "Frigo 3",
+        "img": ""
+    }, {
+        "naam": "Tongerlo (blond / bruin)",
+        "info": "6.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "Plukker Tripel (bio)",
+        "info": "7.5",
+        "prijs": "4.00",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "Keikoppenbier",
+        "info": "6.1",
+        "prijs": "3.00",
+        "frigo": "Frigo 4",
+        "img": ""
+    }, {
+        "naam": "St.-Bernardus Tripel",
+        "info": "8.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "St.-Bernardus wit",
+        "info": "5.5",
+        "prijs": "2.50",
+        "frigo": "Frigo 1",
+        "img": ""
+    }, {
+        "naam": "St.-Bernardus 6",
+        "info": "6.7",
+        "prijs": "3.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Westmalle Tripel",
+        "info": "9.5",
+        "prijs": "3.50",
+        "frigo": "Frigo 8",
+        "img": ""
+    }, {
+        "naam": "Duvel",
+        "info": "8.5",
+        "prijs": "3.50",
+        "frigo": "Frigo 8",
+        "img": ""
+    }, {
+        "naam": "Papegaei",
+        "info": "8.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "img": ""
+    }, {
+        "naam": "Orval",
+        "info": "6.2",
+        "prijs": "4.00",
+        "frigo": "Frigo 8",
+        "img": ""
+    }, {
+        "naam": "Chimay Blue (blauw)",
+        "info": "9.0",
+        "prijs": "4.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Rochefort",
+        "info": "11.3",
+        "prijs": "4.50",
+        "frigo": "Frigo 7",
+        "img": ""
+    }, {
+        "naam": "Reninge Oud Bruin",
+        "info": "6.0",
+        "prijs": "8.00",
+        "frigo": "Frigo groot",
+        "img": ""
+    }, {
+        "naam": "Viven master Ipa",
+        "info": "7.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 4",
+        "img": ""
+    }, {
+        "naam": "Gageleer Bio",
+        "info": "7.5",
+        "prijs": "5.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Ichtegem’s Grand Cru Strubbe",
+        "info": "6.5",
+        "prijs": "4.00",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Uytkanter",
+        "info": "7.0",
+        "prijs": "3.50",
+        "frigo": "Frigo 6",
+        "img": ""
+    }, {
+        "naam": "Cider",
+        "info": "n.v.t.",
+        "prijs": "3.50",
+        "frigo": "Frigo 2",
+        "img": ""
+    }],
+    "en": [{
+            "naam": "Super 8 (Export)",
+            "info": "4.8",
+            "prijs": "2.20",
+            "frigo": "Frigo 1",
+            "img": ""
+        },
+        {
+            "naam": "Primus van’ t vat <span>(pint)</span>",
+            "info": "5.2",
+            "prijs": "2.20",
+            "frigo": "Tap heel rechts",
+            "img": ""
+        },
+        {
+            "naam": "Kriek Mystic",
+            "info": "5.1",
+            "prijs": "2.50",
+            "frigo": "Frigo 2",
+            "img": ""
+        },
+        {
+            "naam": "Rodenbach",
+            "info": "5.2",
+            "prijs": "2.50",
+            "frigo": "frigo 2",
+            "img": ""
+        },
+        {
+            "naam": "Star light pils",
+            "info": "0.4",
+            "prijs": "2.00",
+            "frigo": "frigo 2",
+            "img": ""
+        },
+        {
+            "naam": "Vedett",
+            "info": "5.2",
+            "prijs": "3.00",
+            "frigo": "Frigo 3",
+            "img": ""
+        },
+        {
+            "naam": "Hommelbier",
+            "info": "7.5",
+            "prijs": "2.50",
+            "frigo": "Frigo 3",
+            "img": ""
+        },
+        {
+            "naam": "Boon Oude Geuze",
+            "info": "5.2",
+            "prijs": "2.50",
+            "frigo": "Frigo 3",
+            "img": ""
+        },
+        {
+            "naam": "Tongerlo (blond / bruin)",
+            "info": "6.0",
+            "prijs": "3.50",
+            "frigo": "Frigo 7",
+            "img": ""
+        },
+        {
+            "naam": "Plukker Tripel (bio)",
+            "info": "7.5",
+            "prijs": "4.00",
+            "frigo": "Frigo 7",
+            "img": ""
+        },
+        {
+            "naam": "Keikoppenbier",
+            "info": "6.1",
+            "prijs": "3.00",
+            "frigo": "Frigo 4",
+            "img": ""
+        },
+        {
+            "naam": "St.-Bernardus Tripel",
+            "info": "8.0",
+            "prijs": "3.50",
+            "frigo": "Frigo 7",
+            "img": ""
+        },
+        {
+            "naam": "St.-Bernardus wit",
+            "info": "5.5",
+            "prijs": "2.50",
+            "frigo": "Frigo 1",
+            "img": ""
+        },
+        {
+            "naam": "St.-Bernardus 6",
+            "info": "6.7",
+            "prijs": "3.00",
+            "frigo": "Frigo 6",
+            "img": ""
+        },
+        {
+            "naam": "Westmalle Tripel",
+            "info": "9.5",
+            "prijs": "3.50",
+            "frigo": "Frigo 8",
+            "img": ""
+        },
+        {
+            "naam": "Duvel",
+            "info": "8.5",
+            "prijs": "3.50",
+            "frigo": "Frigo 8",
+            "img": ""
+        },
+        {
+            "naam": "Papegaei",
+            "info": "8.0",
+            "prijs": "3.50",
+            "frigo": "Frigo 4",
+            "img": ""
+        },
+        {
+            "naam": "Orval",
+            "info": "6.2",
+            "prijs": "4.00",
+            "frigo": "Frigo 8",
+            "img": ""
+        },
+        {
+            "naam": "Chimay Blue (blauw)",
+            "info": "9.0",
+            "prijs": "4.00",
+            "frigo": "Frigo 6",
+            "img": ""
+        },
+        {
+            "naam": "Rochefort",
+            "info": "11.3",
+            "prijs": "4.50",
+            "frigo": "Frigo 7",
+            "img": ""
+        },
+        {
+            "naam": "Reninge Oud Bruin",
+            "info": "6.0",
+            "prijs": "8.00",
+            "frigo": "Frigo groot",
+            "img": ""
+        },
+        {
+            "naam": "Viven master Ipa",
+            "info": "7.0",
+            "prijs": "3.50",
+            "frigo": "Frigo 4",
+            "img": ""
+        },
+        {
+            "naam": "Gageleer Bio",
+            "info": "7.5",
+            "prijs": "5.00",
+            "frigo": "Frigo 6",
+            "img": ""
+        },
+        {
+            "naam": "Ichtegem’s Grand Cru Strubbe",
+            "info": "6.5",
+            "prijs": "4.00",
+            "frigo": "Frigo 6",
+            "img": ""
+        },
+        {
+            "naam": "Uytkanter",
+            "info": "7.0",
+            "prijs": "3.50",
+            "frigo": "Frigo 6",
+            "img": ""
+        },
+        {
+            "naam": "Cider",
+            "info": "n.v.t.",
+            "prijs": "3.50",
+            "frigo": "Frigo 2",
+            "img": ""
+        }, {
+            "naam": "Carlsberg",
+            "info": "n.v.t.",
+            "prijs": "2.50",
+            "frigo": "Frigo 2",
+            "img": ""
+        }
+    ]
 }
