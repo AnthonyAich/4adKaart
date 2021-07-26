@@ -1,5 +1,11 @@
 {
     "nl": [{
+        "naam": "Pepsi Cola",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 1",
+        "soort": ""
+    }, {
         "naam": "Pepsi Max Cola",
         "info": "n.v.t.",
         "prijs": "2.00",
@@ -127,6 +133,12 @@
         "soort": ""
     }],
     "fr": [{
+        "naam": "Pepsi Coca",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 1",
+        "soort": ""
+    }, {
         "naam": "Pepsi Max Coca",
         "info": "n.v.t.",
         "prijs": "2.00",
@@ -254,7 +266,13 @@
         "soort": ""
     }],
     "en": [{
-        "naam": "Pepsi Max Cola",
+        "naam": "Pepsi Coke",
+        "info": "n.v.t.",
+        "prijs": "2.00",
+        "frigo": "Frigo 1",
+        "soort": ""
+    }, {
+        "naam": "Pepsi Max Coke",
         "info": "n.v.t.",
         "prijs": "2.00",
         "frigo": "Frigo 1",
@@ -314,7 +332,7 @@
         "frigo": "Frigo 4",
         "soort": ""
     }, {
-        "naam": "Ritchie Cola",
+        "naam": "Ritchie Coke",
         "info": "n.v.t.",
         "prijs": "3.00",
         "frigo": "Frigo 3",
